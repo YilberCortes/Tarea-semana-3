@@ -4,4 +4,7 @@ y correr el programa se pueden encontrar inconsistencias, además, nos
 permite poder mejorar el codigo segun nuestro parendizaje vaya creciendo
 y vayamos mejorando, podemos elegir que arreglar, modificar o mejorar 
 segun nuetra experiencia. Tambien nos permite replicar el proyecto o copiar
-los datos que llevamos y crear un proyecto similar
+los datos que llevamos y crear un proyecto similar.
+otro factor importante es la seguridad de la informacion, muchas veces se
+pierde informacion importante pero al tener un registro o copia de seguridad
+se puede evitar perder completamente o parcialmente la informacion
