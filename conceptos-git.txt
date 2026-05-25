@@ -1,0 +1,9 @@
+Repositorio: Es una carpeta virtual donde puedes organizar toda la informacion
+de tu proyecto, además te permite volver a versiones anteriores y verificar
+todo el trabajo realizado a lo largo del tiempo
+
+Commit: es un comando que te permite guardar las modificaciones o avances del
+proyecto realizadas en la terminal 
+
+Push: es un comando que permite subir la informacion desde el equipo al
+repositorio
